@@ -1,0 +1,10 @@
+1. kérdésre a válasz: helyes
+2. kérdésre a válasz: helytelen (A jó válasz: b)
+3. kérdésre a válasz: helytelen (A jó válasz: a)
+4. kérdésre a válasz: helyes
+5. kérdésre a válasz: helyes
+6. kérdésre a válasz: Részben helyes megoldás (ha a subclassokat excludolni szeretnénk, ami legalábbis kérdéses), egyébként az isinstance megoldás is jó lehet. Side-note: nincs olyan függvény, hogy is_instance(), a ChatGPT viszont ezt ajánlotta fel.
+7. kérdésre a válasz: helyes
+8. kérdésre a válasz: helytelen, mert itt csak létrehozzuk azt a bizonyos stringet a lista alapján, nem íratjuk ki. (A jó válasz: b)
+9. kérdésre a válasz: helyes
+10. kérdésre a válasz: helyes
